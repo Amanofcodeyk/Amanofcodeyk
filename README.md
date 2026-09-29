@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aman👋
+
+BTech Data Science student interested in Machine Learning, AI and research.
+
+## What I'm working on
+
+- Machine Learning & Data Science
+- Research projects
+- Technical competitions
+- Building real-world solutions
+
+## Currently learning
+
+- Python
+- Machine Learning
+- Git & GitHub
+- Data Science
+
+## Interests
+
+- AI / ML
+- Data Science
+- Research
+- Problem solving
 
 <!--
 **Amanofcodeyk/Amanofcodeyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
